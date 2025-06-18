@@ -1,6 +1,5 @@
 # {{ cookiecutter.project_name }}
 
-[![CI](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/actions/workflows/test.yaml)
 [![Deploy to Streamlit](https://img.shields.io/badge/Deploy-Streamlit%20Cloud-%23FF4B4B)](https://streamlit.io/)
 
 {{ cookiecutter.description }}

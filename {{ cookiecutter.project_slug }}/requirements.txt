@@ -1,0 +1,8 @@
+streamlit>=1.35
+{% if cookiecutter.chart_lib == 'plotly' %}
+plotly
+{% elif cookiecutter.chart_lib == 'altair' %}
+altair>=5.0
+{% endif %}
+pandas
+matplotlib

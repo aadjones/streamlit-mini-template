@@ -1,0 +1,7 @@
+# cache / editor junk
+*.pyc
+__pycache__/
+.DS_Store
+
+# local test outputs
+test_dash/           # (whatever folder your CI generates)

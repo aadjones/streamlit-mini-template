@@ -1,0 +1,7 @@
+pre-commit
+{% if cookiecutter.include_tests == 'y' %}
+pytest
+{% endif %}
+black
+isort
+ruff

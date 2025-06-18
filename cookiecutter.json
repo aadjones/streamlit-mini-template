@@ -1,0 +1,14 @@
+{
+    "project_slug": "streamlit_dashboard",
+    "project_name": "Streamlit Dashboard",
+    "description": "A lightweight Streamlit dashboard template for tracking and visualising time‑series data",
+    "github_username": "aadjones",
+    "full_name": "Aaron Jones", 
+    "author_name": "{{ cookiecutter.full_name }}",
+    "python_version": "3.13",
+    "include_tests": ["y", "n"],
+    "license": ["MIT", "Apache-2.0", "BSD-3-Clause"],
+    "data_path": "data/demo.csv",
+    "primary_color": "#DB6D72",
+    "chart_lib": ["plotly", "altair"]
+  }
